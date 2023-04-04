@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+        <ListPreference
+            app:defaultValue="Dog API"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_entries"
+            app:key="reply"
+            app:title="@string/reply_title"
+            app:useSimpleSummaryProvider="true" />
+
+</PreferenceScreen>

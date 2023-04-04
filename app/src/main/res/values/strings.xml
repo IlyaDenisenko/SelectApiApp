@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SelectApiApp</string>
+    <string name="hint_for_dog_api">Enter the name of the breed or get a random dog</string>
+    <string name="hint_for_nationalize_api">Enter a name or names</string>
+    <string name="hint_for_your_api">Enter your API</string>
+    <string name="send_request_button">Send</string>
+    <string name="unknown_name">Unknown name</string>
+
+    <!-- Messages Preferences -->
+    <string name="reply_title">Selected API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

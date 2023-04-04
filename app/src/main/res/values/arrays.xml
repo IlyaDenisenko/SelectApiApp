@@ -1,0 +1,8 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Dog API</item>
+        <item>Nationalize.io</item>
+        <item>Yours API</item>
+    </string-array>
+</resources>
